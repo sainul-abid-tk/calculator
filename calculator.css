@@ -1,0 +1,28 @@
+.main{
+    height: 100vh;
+}
+.calc-main{
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(47, 56, 61, 0.75)10px 0px 10px 10px;
+}
+.input{
+    padding: 70px 10px 10px 0px;
+    font-size: 45px;
+    text-align: right;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.butn{
+    width: 100px;
+    height: 100px;
+    /* border: 1px solid; */
+    font-size: 35px;
+    font-weight: 500px;
+    border-radius: 50px;
+}
+.exp{
+    background-color: rgb(237, 199, 237);
+}
